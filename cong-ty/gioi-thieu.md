@@ -4,7 +4,7 @@ description: "NextSmart — người bạn đồng hành tin cậy trong hành t
 slug: gioi-thieu
 canonical: "https://nextsmart.vn/gioi-thieu"
 ogTitle: "Về chúng tôi — NextSmart"
-ogDescription: "Công ty phần mềm B2B Việt Nam với đội ngũ lãnh đạo 10+ năm kinh nghiệm. Sứ mệnh: kiến tạo giá trị bền vững qua công nghệ thông minh, thiết thực và giàu tính nhân văn."
+ogDescription: "Công ty phần mềm B2B Việt Nam với đội ngũ lãnh đạo 15+ năm kinh nghiệm. Sứ mệnh: kiến tạo giá trị bền vững qua công nghệ thông minh, thiết thực và giàu tính nhân văn."
 ---
 
 ## Câu chuyện của chúng tôi
