@@ -1,6 +1,6 @@
 ---
 title: "Về chúng tôi — NextSmart"
-description: "NextSmart — người bạn đồng hành tin cậy trong hành trình chuyển đổi số. Đội ngũ lãnh đạo 10+ năm kinh nghiệm trong y tế, giáo dục và quản trị doanh nghiệp."
+description: "NextSmart — người bạn đồng hành tin cậy trong hành trình chuyển đổi số. Đội ngũ lãnh đạo 15+ năm kinh nghiệm trong y tế, giáo dục và quản trị doanh nghiệp."
 slug: gioi-thieu
 canonical: "https://nextsmart.vn/gioi-thieu"
 ogTitle: "Về chúng tôi — NextSmart"
