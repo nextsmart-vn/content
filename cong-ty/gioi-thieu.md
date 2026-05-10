@@ -30,7 +30,7 @@ Công ty phần mềm B2B tại Việt Nam, cung cấp hệ sinh thái 7 sản p
 
 | Chỉ số | Giá trị |
 |---|---|
-| Năm kinh nghiệm (đội ngũ lãnh đạo) | 10+ |
+| Năm kinh nghiệm (đội ngũ lãnh đạo) | 15+ |
 | Doanh nghiệp đang vận hành | 500+ |
 | Sản phẩm chuyên biệt theo ngành | 7 |
 | Tỉnh thành đã triển khai | 26 |
