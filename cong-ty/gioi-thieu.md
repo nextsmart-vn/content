@@ -19,7 +19,7 @@ Công ty phần mềm B2B tại Việt Nam, cung cấp hệ sinh thái 7 sản p
 |---|---|
 | Tên công ty | NextTech Smart Solutions |
 | Website | https://nextsmart.vn |
-| Hotline | 0989 133 891 |
+| Hotline | 0989 133 891 - 0385 696 891 - 0962 767 286|
 | Email | contact@nextsmart.vn |
 | Địa chỉ | Hà Nội, Việt Nam |
 | Facebook | https://www.facebook.com/nexttechsmart |
