@@ -1,10 +1,10 @@
 ---
-title: "Bảo mật — NextTech ERP"
+title: "Cính sách bảo mật"
 description: "Chính sách bảo mật NextTech ERP: thu thập, sử dụng dữ liệu và tuân thủ Google API Services theo Nghị định 13/2023/NĐ-CP."
 keywords: ["chính sách bảo mật", "NextTech ERP", "Google API", "bảo vệ dữ liệu"]
 slug: bao-mat-erp
-canonical: "https://nextsmart.vn/chinh-sach/bao-mat-erp"
-ogTitle: "Chính sách Bảo mật — NextTech ERP"
+canonical: "https://nextsmart.vn/chinh-sach-bao-mat"
+ogTitle: "Chính sách Bảo mật"
 ogDescription: "Cách NextTech ERP thu thập, sử dụng dữ liệu và tuân thủ Google API Services User Data Policy."
 dateModified: "2026-05-12"
 ---
