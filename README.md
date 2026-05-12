@@ -23,9 +23,12 @@ content/
 │   ├── marketing.md                  → /marketing
 │   └── qlbh.md                       → /qlbh
 │
-└── cong-ty/                       # Trang công ty
-    ├── gioi-thieu.md                 → /gioi-thieu
-    └── bang-gia.md                   → /bang-gia
+├── cong-ty/                       # Trang công ty
+│   ├── gioi-thieu.md                 → /gioi-thieu
+│   └── bang-gia.md                   → /bang-gia
+│
+└── chinh-sach/                    # Trang chính sách pháp lý
+    └── bao-mat-pos.md                → /chinh-sach/bao-mat-pos
 ```
 
 ---
