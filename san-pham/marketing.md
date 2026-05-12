@@ -4,6 +4,10 @@ description: "OmniMarket AI: 7 AI Agent tự động viết content, tạo ảnh
 keywords: ["phần mềm marketing AI", "OmniMarket AI NextTech", "quản lý mạng xã hội AI", "AI agent marketing đa kênh", "tự động đăng bài Facebook Zalo TikTok", "unified inbox Messenger Zalo", "character consistency AI"]
 slug: marketing
 canonical: "https://nextsmart.vn/marketing"
+menuEmoji: "📣"
+menuName: "OmniMarket AI"
+menuDesc: "Marketing đa kênh với 7 AI Agent"
+menuHref: "/marketing"
 ogTitle: "OmniMarket AI — 7 AI Agent tự động hoá marketing đa kênh"
 ogDescription: "Tạo ảnh/video AI, lên lịch Facebook/Zalo/TikTok, Unified Inbox, Chat RAG, Golden Hours, Character Consistency."
 ---

@@ -4,6 +4,10 @@ description: "QLBH: phần mềm POS bán lẻ, F&B, CRM đa cửa hàng. Sơ đ
 keywords: ["phần mềm POS bán hàng", "QLBH NextTech", "phần mềm quản lý nhà hàng cà phê", "POS đa cửa hàng SaaS", "QR Order không cần app", "KDS bếp realtime", "phần mềm tích điểm thành viên"]
 slug: qlbh
 canonical: "https://nextsmart.vn/qlbh"
+menuEmoji: "🛒"
+menuName: "QLBH POS"
+menuDesc: "POS + F&B + CRM đa cửa hàng SaaS"
+menuHref: "/qlbh"
 ogTitle: "QLBH — POS + F&B + CRM trên một màn hình, đa cửa hàng SaaS"
 ogDescription: "Sơ đồ bàn kéo-thả, QR Order, KDS bếp WebSocket, tích điểm, đồng bộ Grab/ShopeeFood/GHN, hoá đơn điện tử."
 ---

@@ -4,6 +4,10 @@ description: "Smart ERP: phần mềm ERP cho doanh nghiệp xây dựng, thiế
 keywords: ["phần mềm ERP doanh nghiệp", "phần mềm ERP xây dựng", "ERP thiết kế thi công", "quản lý dự án xây dựng", "phần mềm kho vật tư", "chấm công GPS công trường", "Smart ERP NextTech"]
 slug: erp
 canonical: "https://nextsmart.vn/erp"
+menuEmoji: "🏗️"
+menuName: "Smart ERP"
+menuDesc: "ERP doanh nghiệp: xây dựng, thiết kế, thi công, sản xuất"
+menuHref: "/erp"
 ogTitle: "Smart ERP — Quản trị Doanh nghiệp Xây dựng, Thiết kế, Thi công"
 ogDescription: "Kanban, Gantt, kho vật tư soft-lock, chấm công GPS, tài chính dự án, trợ lý AI — phù hợp xây dựng, thiết kế, thi công nội thất. Triển khai 1–3 ngày."
 rating: "4.8"

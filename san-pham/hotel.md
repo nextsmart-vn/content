@@ -4,6 +4,10 @@ description: "HotelManager: PMS khách sạn thế hệ mới, Room Board realti
 keywords: ["phần mềm quản lý khách sạn PMS", "HotelManager NextTech", "Room Board realtime", "Channel Manager OTA", "phần mềm quản lý resort Việt Nam", "Night Audit tự động"]
 slug: hotel
 canonical: "https://nextsmart.vn/hotel"
+menuEmoji: "🏨"
+menuName: "HotelManager"
+menuDesc: "PMS quản lý khách sạn thế hệ mới"
+menuHref: "/hotel"
 ogTitle: "HotelManager — PMS Khách sạn Realtime, không overbooking"
 ogDescription: "Room Board Socket.IO, Channel Manager Booking.com/Agoda/Expedia, Night Audit tự động, Folio & hoá đơn điện tử."
 ---

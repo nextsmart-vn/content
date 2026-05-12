@@ -4,6 +4,10 @@ description: "AgentDigital: phần mềm số hoá tài liệu OCR thông minh, 
 keywords: ["số hoá tài liệu OCR AI", "phần mềm số hoá văn bản", "OCR tiếng Việt", "AgentDigital NextTech", "số hoá hồ sơ cơ quan nhà nước", "AI trích xuất metadata", "QĐ 20/2020 số hoá"]
 slug: agent
 canonical: "https://nextsmart.vn/agent"
+menuEmoji: "📄"
+menuName: "AgentDigital"
+menuDesc: "Số hoá tài liệu thông minh, 50K trang/ngày"
+menuHref: "/agent"
 ogTitle: "AgentDigital — OCR AI số hoá 70.000 trang tài liệu mỗi ngày"
 ogDescription: "Gemini Vision + PaddleOCR, accuracy ≥ 98%, AI tự trích xuất 18 trường metadata chuẩn nhà nước. Batch duyệt tự động."
 ---

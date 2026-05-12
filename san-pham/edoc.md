@@ -4,6 +4,10 @@ description: "eDoc: hệ thống lưu trữ tài liệu điện tử chuẩn QĐ
 keywords: ["phần mềm lưu trữ điện tử", "eDoc NextTech", "hệ thống lưu trữ tài liệu số", "QĐ 20/2020 tài liệu điện tử", "phần mềm quản lý văn bản cơ quan", "eSign chữ ký số"]
 slug: edoc
 canonical: "https://nextsmart.vn/edoc"
+menuEmoji: "🏛️"
+menuName: "eDoc"
+menuDesc: "Lưu trữ điện tử chuẩn pháp lý Việt Nam"
+menuHref: "/edoc"
 ogTitle: "eDoc — Lưu trữ Điện tử chuẩn pháp lý, RBAC 4 vai trò, eSign"
 ogDescription: "Chuẩn QĐ 20/2020 và Nghị định 30/2020/NĐ-CP, 2FA bắt buộc, full-text search, workflow phê duyệt đa cấp."
 ---
