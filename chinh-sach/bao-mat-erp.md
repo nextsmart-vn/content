@@ -50,4 +50,4 @@ Chính sách này có thể được cập nhật định kỳ. Chúng tôi sẽ
 
 ---
 
-Mọi thắc mắc vui lòng liên hệ: **contact@nextsmart.vn** hoặc gọi **1900 1000**
+Mọi thắc mắc vui lòng liên hệ: **contact@nextsmart.vn**
