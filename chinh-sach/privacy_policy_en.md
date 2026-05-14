@@ -3,7 +3,7 @@ title: "Privacy Policy"
 description: "Free Scan privacy policy: offline-first, no personal data collection, compliant with Google Play Policy and ML Kit Terms."
 keywords: ["privacy policy", "Free Scan", "ML Kit", "offline scanner", "Vietnamese OCR"]
 slug: free-scan-privacy-policy-en
-canonical: "https://nextsmart.vn/free-scan-privacy-policy-en"
+canonical: "https://nextsmart.vn/chinh-sach/free-scan-privacy-policy-en"
 ogTitle: "Privacy Policy — Free Scan"
 ogDescription: "Free Scan is an offline document scanner. No data collection. No uploads. No mandatory account."
 dateModified: "2026-05-15"
